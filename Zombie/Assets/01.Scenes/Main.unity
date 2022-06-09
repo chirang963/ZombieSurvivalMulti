@@ -1525,6 +1525,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 8283637412576967047, guid: c6a8c65b86666854c9a9b678e7da1a83, type: 3}
+      propertyPath: sceneViewId
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8283637412730514466, guid: c6a8c65b86666854c9a9b678e7da1a83, type: 3}
       propertyPath: m_AnchorMax.x
       value: 0
@@ -1580,10 +1584,6 @@ PrefabInstance:
     - target: {fileID: 8283637414231355158, guid: c6a8c65b86666854c9a9b678e7da1a83, type: 3}
       propertyPath: m_Name
       value: Player Character
-      objectReference: {fileID: 0}
-    - target: {fileID: 8283637414231355158, guid: c6a8c65b86666854c9a9b678e7da1a83, type: 3}
-      propertyPath: m_Layer
-      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c6a8c65b86666854c9a9b678e7da1a83, type: 3}
